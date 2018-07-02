@@ -3,11 +3,6 @@ h1{
 text-align:left;
 text-decoration:underline;
 }
-h2{
-  color:white;
-  text-decoration:underline;
-  text direction: bold;
-}
 ul{
   color:orange;
   text-decoration: none;
@@ -19,15 +14,14 @@ body{
   border: 4px solid yellow;
   padding: 16px;
 }
-link{
-  color:red;
-  text-decoration:none;
-}
 h3{
   color: blue;
   font-style: bold;
 }
-link{
-  color:red;
-  text-decoration: none
+h2{
+  color:green
+  text decoration:underline
+
 }
+
+
